@@ -1,2 +1,0 @@
-# YoutubeAccordianComponent
-Created with CodeSandbox
